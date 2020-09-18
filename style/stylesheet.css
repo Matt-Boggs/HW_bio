@@ -1,0 +1,73 @@
+#left {
+    float: left;
+    width: 33%;
+}
+
+#center {
+    margin-top: 40px;
+    width: 33%;
+    float: left;
+}
+
+#right {
+    width: 34%;
+    float: left;
+}
+
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+/* everything above is float layout */
+
+
+/* everything below is just prettying it up  */
+footer {
+    position: fixed;
+    bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: seashell;
+    background-color: rgb(95, 93, 93);
+    margin: -10px -20px;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+}
+  
+h2#name {
+    /* margin-left: 40px; */
+}
+h2#contact {
+    margin-left: 15px;
+}
+  
+img {
+    margin-left: 40px;
+    border: black solid 1px;
+}
+
+a {
+    color: darkred;
+}
+  
+body {
+    background-color: rgb(242, 255, 242);
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    font-family: 'Anton', sans-serif;
+}
+
+cite {
+    font-size: 8px;
+    opacity: 20%;
+    color: black;
+    z-index: -1;
+}
+
