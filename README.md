@@ -13,6 +13,5 @@ In the course of looking for where my code might have been broken, I gained some
 ### Github Pages Link
 https://matt-boggs.github.io/HW_bio/
 # To do
-Fill out this read me
 
 add mobile responsiveness to site
