@@ -61,21 +61,18 @@ cite {
     bottom: 5px;
 }
 
-section.row > div {
-    /* outline: solid 1px black; */
-}
-.container {
-    /* outline: black 1px solid; */
-}
+/* section.row > div {
+    outline: solid 1px black;
+} */
+/* .container {
+    outline: black 1px solid;
+} */
 
 nav {
     text-align: center;
     padding-bottom: 10px;
 }
 
-.page3 {
+.projects {
     outline: solid 1px black;
-}
-* {
-    /* outline: black solid 1px; */
 }
