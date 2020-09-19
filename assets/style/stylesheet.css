@@ -16,12 +16,16 @@ h1 {
     /* padding: 15px; */
 }
 .info {
-    margin-bottom: 50px;padding-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
     line-height: 45px;
 }
   
 h2#name { 
      /* margin-left: 40px;  */
+     background-color: cadetblue;
+    border-radius: 10px;
+    text-align: center;
 }
 h2#contact {
     /* margin-left: 15px; */
@@ -58,16 +62,20 @@ cite {
 }
 
 section.row > div {
-    outline: solid 1px black;
+    /* outline: solid 1px black; */
 }
 .container {
-    outline: black 1px solid;
+    /* outline: black 1px solid; */
 }
 
 nav {
     text-align: center;
+    padding-bottom: 10px;
 }
 
+.page3 {
+    outline: solid 1px black;
+}
 * {
     /* outline: black solid 1px; */
 }
