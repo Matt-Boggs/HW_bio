@@ -5,6 +5,8 @@ footer {
     text-align: center;
     width: 100%;
     background-color: cadetblue;
+    /* outline: black 1px solid; */
+    /* margin-top: 30px; */
 }
 
 h1 {
