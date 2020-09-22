@@ -6,13 +6,11 @@ footer {
     width: 100%;
     background-color: cadetblue;
     /* outline: black 1px solid; */
-    /* margin-top: 30px; */
 }
 
 h1 {
     color: seashell;
     background-color: rgb(95, 93, 93);
-    /* margin: -10px -20px; */
     text-align: center;
     font-size: 30px;
     /* padding: 15px; */
@@ -24,14 +22,11 @@ h1 {
 }
   
 h2#name { 
-     /* margin-left: 40px;  */
      background-color: cadetblue;
     border-radius: 10px;
     text-align: center;
 }
 h2#contact {
-    /* margin-left: 15px; */
-    /* font-size: 50px; */
     background-color: cadetblue;
     border-radius: 10px;
     text-align: center;
@@ -58,7 +53,6 @@ cite {
     font-size: 8px;
     /* opacity: 20%; */
     color: black;
-    /* margin-bottom: 10px; */
     position: relative; 
     bottom: 5px;
 }
@@ -77,4 +71,12 @@ nav {
 
 .projects {
     outline: solid 1px black;
+}
+
+/* #pics {
+    max-width: 100%; max-height: 100%;
+} */
+
+img {
+    max-width: 800px; max-height: 800px;
 }
